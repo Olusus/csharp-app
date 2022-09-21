@@ -951,6 +951,16 @@
             "rid": "win"
           }
         }
+      },
+      "database/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/database.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/database.dll": {}
+        }
       }
     }
   },
@@ -2442,6 +2452,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "database/1.0.0": {
+      "type": "project",
+      "path": "../database/database.csproj",
+      "msbuildProject": "../database/database.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2450,7 +2465,8 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.8",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
-      "Microsoft.EntityFrameworkCore.Tools >= 6.0.8"
+      "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
+      "database >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2484,7 +2500,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Stażysta\\source\\repos\\csharp-app\\mvc app\\database\\database.csproj": {
+              "projectPath": "C:\\Users\\Stażysta\\source\\repos\\csharp-app\\mvc app\\database\\database.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

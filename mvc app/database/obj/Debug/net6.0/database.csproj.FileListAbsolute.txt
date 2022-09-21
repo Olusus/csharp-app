@@ -1,0 +1,12 @@
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\bin\Debug\net6.0\database.deps.json
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\bin\Debug\net6.0\database.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\bin\Debug\net6.0\database.pdb
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\database.csproj.AssemblyReference.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\database.AssemblyInfoInputs.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\database.AssemblyInfo.cs
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\database.csproj.CoreCompileInputs.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\database.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\refint\database.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\database.pdb
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\database\obj\Debug\net6.0\ref\database.dll

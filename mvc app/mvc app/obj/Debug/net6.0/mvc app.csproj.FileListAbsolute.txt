@@ -1,0 +1,72 @@
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\appsettings.json
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\mvc app.staticwebassets.runtime.json
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\mvc app.exe
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\mvc app.deps.json
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\mvc app.runtimeconfig.json
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\mvc app.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\mvc app.pdb
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\database.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\bin\Debug\net6.0\database.pdb
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.csproj.AssemblyReference.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.AssemblyInfoInputs.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.AssemblyInfo.cs
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.csproj.CoreCompileInputs.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.RazorAssemblyInfo.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.RazorAssemblyInfo.cs
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\scopedcss\bundle\mvc app.styles.css
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\scopedcss\projectbundle\mvc app.bundle.scp.css
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.csproj.CopyComplete
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\refint\mvc app.dll
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.pdb
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\mvc app.genruntimeconfig.cache
+C:\Users\Stażysta\source\repos\csharp-app\mvc app\mvc app\obj\Debug\net6.0\ref\mvc app.dll
